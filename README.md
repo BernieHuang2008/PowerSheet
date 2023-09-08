@@ -6,6 +6,11 @@ a web app that simulate EXCEL, and has some of excel's functions.
 
 **PowerSheet has no dependences!**  you just need a browser!
 
-## Demo
+# Demo
 try it on [my github pages](berniehuang2008.github.io/PowerSheet/PowerSheet.html)
 
+# Thanks ...
+```
+JsZip ............. for zipping and unzipping data.
+FileSaver ......... for saving `.sheet` files.
+```
