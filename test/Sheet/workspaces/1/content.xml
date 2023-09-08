@@ -1,0 +1,31 @@
+<sheet>
+    <content>
+        <name>Sheet1</name>
+        <range>A1:C5</range>
+    </content>
+    <r id='1'>
+        <c id='A'>hello</c>
+        <c id='B'>'hello</c>
+        <c id='C'>7<f>=SUM(B2:B3)</f></c>
+    </r>
+    <r id='2'>
+        <c id='A'>1</c>
+        <c id='B'>2</c>
+        <c id='C'>3</c>
+    </r>
+    <r id='3'>
+        <c id='A'>4</c>
+        <c id='B' c='1'>5</c>
+        <c id='C' c='2'>6</c>
+    </r>
+    <r id='4'>
+        <c id='A'>a</c>
+        <c id='B'>b</c>
+        <c id='C'>c</c>
+    </r>
+    <r id='5'>
+        <c id='A'>7</c>
+        <c id='B'></c>
+        <c id='C'></c>
+    </r>
+</sheet>

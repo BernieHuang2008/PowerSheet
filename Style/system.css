@@ -1,0 +1,27 @@
+.cell{
+	cursor: cell;
+}
+
+#funcBarSizeChange:hover {
+	cursor: w-resize;
+}
+
+.cell.choose-down.choose-right:after {
+	cursor: crosshair;
+}
+
+.cell.choose-down.choose-right:after {
+	cursor: crosshair;
+}
+
+
+#fileinput {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+@font-face {
+	font-family: 'OffSMDL2';
+	src: url('OffSMDL2.4.50.woff') format('woff');
+}
